@@ -1,5 +1,6 @@
 ﻿UPDATE v1.0.2 26-11-2026
 
+- 28/11: Sua loi nhan vat bi tu the chay tai cho khi ra chieu cac ky nang phep/buff (anh xa dung cdo_magic)
 - 27/11: Sua loi ky nang Chuong Tam Loi va Thiet Ma Bang Qua danh hut muc tieu (va cham theo chieu cao MissleHeight)
 - 27/11: Sua loi khong qua duoc map khac va hoi sinh (doc map_transitions va revivepos tu phongthan.pak)
 - 27/11: Sua loi hien thi nut Cap Nhat tren Launcher va toi uu giao dien 1300x975
