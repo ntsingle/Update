@@ -1,5 +1,7 @@
 ﻿UPDATE v1.0.2 26-11-2026
 
+- 27/11: Sua loi hien thi nut Cap Nhat tren Launcher va toi uu giao dien 1300x975
+- 27/11: Sua loi tao nhan vat, khoi tao day du chi so cap 1 va ky nang co ban cho 4 he phai (Giap Si, Dao Si, Di Nhan, Vu Si)
 - 27/11: Fix loi gui tin nhan mat (whisper) va cap nhat thong bao sang Phong Than
 - 26/11: Triet tieu 100% sinh log chan doan trong C++ (tat toan bo Logs\chan_doan, chuyen pak_tam sang %TEMP%), xoa sach Logs thua
 - 26/11: Sua triet de loi crash Game.exe khi xoa thu muc Logs
@@ -11,6 +13,3 @@
 
 Tong so file trong goi:
 16
-27/11  Ho tro tao nhan vat 4 he phai (Giap Si, Dao Si, Di Nhan, Vu Si)
-27/11  Khoi tao day du chi so cap 1 va ky nang cho 4 he phai khi tao nhan vat
-27/11  Khoi tao day du chi so cap 1 va ky nang cho 4 he phai khi tao nhan vat
