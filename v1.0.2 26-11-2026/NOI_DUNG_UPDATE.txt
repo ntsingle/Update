@@ -1,0 +1,12 @@
+﻿UPDATE v1.0.2 26-11-2026
+
+- 26/11: Triet tieu 100% sinh log chan doan trong C++ (tat toan bo Logs\chan_doan, chuyen pak_tam sang %TEMP%), xoa sach Logs thua
+- 26/11: Sua triet de loi crash Game.exe khi xoa thu muc Logs
+- 26/11: Doi he thong CSDL tu Server sang Tool\Database giup Server gon gang va doc lap
+- 26/11: Gom 9 thu muc du lieu nguoi choi/van hanh vao Server\RuntimeData (CharacterStore, TongDB, MailStore, friend_data, SuDo2008...)
+- 26/11: Dong goi maps vao phongthan.pak, don sach 2 thu muc roi Server\maps va Server\script
+- 26/11: Xoa file rac Server\server.ini
+- 26/11: Dong bo launcher va script quan tri Tool\Admin
+
+Tong so file trong goi:
+15

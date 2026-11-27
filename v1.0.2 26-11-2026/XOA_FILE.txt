@@ -1,0 +1,10 @@
+# v1.0.2: danh sach file / thu muc can xoa khi cai dat goi cap nhat
+Server\Database
+Server\server.ini
+Server\Logs
+Client\Logs
+Server\maps
+Server\script
+Server\settings
+Server\Admin_bridge
+Server\RuntimeData\datascript
