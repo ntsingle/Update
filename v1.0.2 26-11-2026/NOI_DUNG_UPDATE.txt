@@ -13,3 +13,4 @@ Tong so file trong goi:
 16
 27/11  Ho tro tao nhan vat 4 he phai (Giap Si, Dao Si, Di Nhan, Vu Si)
 27/11  Khoi tao day du chi so cap 1 va ky nang cho 4 he phai khi tao nhan vat
+27/11  Khoi tao day du chi so cap 1 va ky nang cho 4 he phai khi tao nhan vat
