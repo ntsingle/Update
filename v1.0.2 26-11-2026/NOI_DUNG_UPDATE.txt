@@ -11,3 +11,4 @@
 
 Tong so file trong goi:
 16
+27/11  Ho tro tao nhan vat 4 he phai (Giap Si, Dao Si, Di Nhan, Vu Si)
