@@ -1,5 +1,6 @@
 ﻿UPDATE v1.0.2 26-11-2026
 
+- 27/11: Fix loi gui tin nhan mat (whisper) va cap nhat thong bao sang Phong Than
 - 26/11: Triet tieu 100% sinh log chan doan trong C++ (tat toan bo Logs\chan_doan, chuyen pak_tam sang %TEMP%), xoa sach Logs thua
 - 26/11: Sua triet de loi crash Game.exe khi xoa thu muc Logs
 - 26/11: Doi he thong CSDL tu Server sang Tool\Database giup Server gon gang va doc lap
@@ -9,4 +10,4 @@
 - 26/11: Dong bo launcher va script quan tri Tool\Admin
 
 Tong so file trong goi:
-15
+16
