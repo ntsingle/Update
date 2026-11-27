@@ -3,3 +3,9 @@ Backups/
 *.downloading
 *.log
 *.status
+DayLenGitHub.bat
+DayLenGitHub.ps1
+CapNhat.bat
+CapNhat.ps1
+*/CAI_DAT_UPDATE.ps1
+*/UPDATE_STATUS.txt
