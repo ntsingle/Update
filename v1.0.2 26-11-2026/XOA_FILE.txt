@@ -1,4 +1,4 @@
-# v1.0.2: danh sach file / thu muc can xoa khi cai dat goi cap nhat
+﻿# v1.0.2: danh sach file / thu muc can xoa khi cai dat goi cap nhat
 Server\Database
 Server\server.ini
 Server\Logs
