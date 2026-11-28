@@ -1,5 +1,6 @@
 ﻿UPDATE v1.0.2 26-11-2026
 
+- 28/11: Them vien phan loai mau sac trang bi/vat pham (Luc, Lam, Hoang Kim, Cam, Tim, Do) trong Hanh Trang & Trang Bi
 - 28/11: Them hieu ung nhap nhay va tu dong an sau 30 giay cho icon thong bao Thang Cap / Nhiem Vu (chuan VNG)
 - 28/11: Dong bo bang kinh nghiem (EXP) cap 1-200 va Chuyen Sinh chuan ban goc VNG (phongthan.pak)
 - 28/11: Tat thong bao spam tu dong gan ky nang vao chuot phai moi khi danh quai
