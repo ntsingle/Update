@@ -1,5 +1,6 @@
 ﻿UPDATE v1.0.2 26-11-2026
 
+- 28/11: Dong bo bang kinh nghiem (EXP) cap 1-200 va Chuyen Sinh chuan ban goc VNG (phongthan.pak)
 - 28/11: Tat thong bao spam tu dong gan ky nang vao chuot phai moi khi danh quai
 - 28/11: Sua loi khong su dung duoc hang loat vat pham Ky Tran Cac (Thanh Long Lenh, 7 Ngoai Trang, 6 Nhu Y Phu, Hoi Dia Phu, Quy Hon Chau, cac tui qua/ruong va dan duoc)
 - 28/11: Sua loi nhan vat bi tu the chay tai cho khi ra chieu cac ky nang phep/buff (anh xa dung cdo_magic)
